@@ -1,0 +1,22 @@
+{
+	"curseFiles": [
+		{
+		
+		}
+		
+	],
+	"mods": [
+    {
+      "name": "kamicraft-1.0.0.jar",
+      "downloadURL": "",
+      "sha1": "8054052ee64d1c9e75f784bb71c5a71c219d6352",
+      "size": 34296
+    }
+	{
+      "name": "OptiFine_1.7.10_HD_U_E7_MOD.jar",
+      "downloadURL": "",
+      "sha1": "e5c1cf5303179aa5e9b3d5648ad34e68e24344b8",
+      "size": 1544236
+    }
+  ]
+}
